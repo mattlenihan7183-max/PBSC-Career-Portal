@@ -1,4 +1,4 @@
-[build]
+toml[build]
   base = "pbsc-portal"
   command = "npm run build"
   publish = "pbsc-portal/.next"
